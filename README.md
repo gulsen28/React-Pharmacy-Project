@@ -30,17 +30,17 @@ In this project, information is obtained from the API service where the pharmaci
 
 <p>
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" width="200" style="max-width:100%;"></a>
   
  <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" width="200" style="max-width:100%;"></a>
   
  <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" width="200" style="max-width:100%;"></a>
 </p>
