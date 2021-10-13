@@ -4,12 +4,15 @@ In this project, information is obtained from the API service where the pharmaci
 
 ## Languages and Technologies Used in this Project
 
+<div align="center">
+  
 | Language / Technology  | :mag_right:  | % |
 | :------------ |:---------------:| -----:|
 | React      | :arrow_right: | 90 |
 | Typescript      | :arrow_right:       |   80 |
 | Css | :arrow_right:        |    50 |
 | Bootstrap | :arrow_right:        |    15 |
+</div>
 
 
 * Form elements are used. Operations are performed according to the onChange and onClick methods. UseStates are referenced in hook elements to dynamically store the entered value in a variable. The values taken from the input with onChange are taken dynamically with the set variable in the state. With the form submission process, the value in the state is taken and the listing process is performed.
@@ -28,19 +31,19 @@ In this project, information is obtained from the API service where the pharmaci
 
 ### Application Images
 
-<p>
+<p align="center">
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane1.jpg" width="400" style="max-width:100%;"></a>
   
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane2.jpg" width="400" style="max-width:100%;"></a>
   
 <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane3.jpg" width="400" style="max-width:100%;"></a>
   
  <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane4.jpg" width="400" style="max-width:100%;"></a>
   
  <a href="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" target="_blank">
-<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/gulsen28/React-Pharmacy-Project/blob/main/images/neczane5.jpg" width="400" style="max-width:100%;"></a>
 </p>
